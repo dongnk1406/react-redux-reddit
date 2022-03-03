@@ -1,0 +1,15 @@
+.makepost-tags-NSFW {
+  background-color: rgb(209, 66, 47);
+}
+.makepost-tags-Mood {
+  background-color: rgb(1, 111, 201);
+}
+.makepost-tags-Quotes {
+  background-color: rgb(183, 47, 224);
+}
+.makepost-tags-Sad {
+  background-color: rgb(197, 186, 23);
+}
+.makepost-tags-None {
+  background-color: grey;
+}
